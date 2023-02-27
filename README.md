@@ -1,3 +1,3 @@
 # sutraq_banking
 
-<img src = "ss/img.jpg" width = 600>
+<img src = "ss/Sutraq.jpg" width = 600>
